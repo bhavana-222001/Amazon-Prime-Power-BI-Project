@@ -1,4 +1,6 @@
 # Amazon-Prime-Power-BI-Project
+![image](https://github.com/user-attachments/assets/3f6d97af-7a99-4d4f-81ba-4b3fa13ecb4a)
+
 
 This project is a Power BI dashboard analyzing Amazon Prime Movies and TV Shows data. It visualizes key metrics using:
 
